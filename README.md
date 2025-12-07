@@ -60,7 +60,7 @@ peritiendo su uso en procesos ETL, auditorías, dashboards o análisis posterior
 
 ---
 
-## 📊 Visualizaciones generadas
+##  Visualizaciones generadas
 
 El proyecto incluye varias visualizaciones profesionales:
 
@@ -91,7 +91,7 @@ Todas las visualizaciones siguen buenas prácticas de claridad, etiquetado y est
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Python 3**  
 - **Pandas** – Manipulación de datos  
