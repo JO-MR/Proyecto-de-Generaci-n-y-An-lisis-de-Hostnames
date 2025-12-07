@@ -1,4 +1,4 @@
-# 🖥️ Generación y Análisis de Hostnames para Infraestructura Tecnológica
+# Generación y Análisis de Hostnames para Infraestructura Tecnológica
 
 Este proyecto implementa un sistema completo para la **generación, clasificación y análisis de hostnames** utilizados en entornos corporativos de infraestructura IT.  
 Incluye la creación de un conjunto sintético de hosts, su categorización automática y la generación de visualizaciones que permiten entender la distribución de plataformas, entornos y países dentro de un ecosistema tecnológico.
